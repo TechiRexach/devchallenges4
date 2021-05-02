@@ -12,7 +12,7 @@
 ## Overview
 
 ![screenshot](mobilefirst.png)
-<!-- ![screenshot](desktop.png) -->
+![screenshot](desktop.png)
 
 
 ### Built With
