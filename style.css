@@ -1,0 +1,149 @@
+.title{
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+}
+
+.presentation{
+    display: grid;
+    grid-template-columns: 0.1fr 1fr;
+}
+
+.dots{
+    width: 80%;
+}
+
+.text1{
+    font-size: 12px;
+    margin-bottom: 12px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: #4F4F4F;
+}
+
+.cheesecake{
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+.resume{
+    display: grid;
+}
+
+.grey{
+    font-size: 8px;
+    color: #BDBDBD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.numbers{
+    font-size: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.numbers.people{
+    color: #F2994A;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.yields{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cubiertos{
+    width: 30px;
+}
+
+.times{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 90%;
+}
+
+.time{
+    display: flex;
+    align-items: center;
+}
+
+.clock{
+    width: 30px;
+    padding-right: 5px;
+}
+
+.ingredients{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+}
+
+.bold{
+    color: black;
+    font-weight: 900;
+}
+
+.bolditalic{
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.part{
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #333333;
+}
+
+.liIngredients{
+    list-style-image: url(./square.png);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #333333;
+}
+
+.inst{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.instruction{
+    display: grid;
+    grid-template-columns: 0.13fr 0.9fr;
+    margin-bottom: 11px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.steps{
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    background-color:#F2994A;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+.step{
+    font-size: 16px;
+    color: #333333;
+}
+
+.source{
+    color: #BDBDBD;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.footer{
+    margin-top: 100px;
+    color: #A9A9A9;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
